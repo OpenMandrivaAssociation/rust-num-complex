@@ -5,8 +5,8 @@
 %global crate num-complex
 
 Name:           rust-%{crate}
-Version:        0.2.4
-Release:        2%{?dist}
+Version:        0.4.0
+Release:        1%{?dist}
 Summary:        Complex numbers implementation for Rust
 
 # Upstream license specification: MIT/Apache-2.0
