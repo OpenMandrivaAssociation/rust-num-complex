@@ -5,7 +5,7 @@
 %global crate num-complex
 
 Name:           rust-%{crate}
-Version:        0.4.0
+Version:        0.4.6
 Release:        1%{?dist}
 Summary:        Complex numbers implementation for Rust
 
